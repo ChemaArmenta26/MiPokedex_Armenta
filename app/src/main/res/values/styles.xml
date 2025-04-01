@@ -1,0 +1,30 @@
+<resources>
+    <style name="PokemonAppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/pokemon_red</item>
+        <item name="colorPrimaryDark">@color/pokemon_red</item>
+        <item name="colorAccent">@color/pokemon_yellow</item>
+        <item name="android:textColorPrimary">@color/pokemon_black</item>
+        <item name="android:textColorSecondary">@color/pokemon_black</item>
+    </style>
+
+    <style name="PokemonButton" parent="Widget.AppCompat.Button">
+        <item name="android:backgroundTint">@color/pokemon_yellow</item>
+        <item name="android:textColor">@color/pokemon_black</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:paddingLeft">16dp</item>
+        <item name="android:paddingRight">16dp</item>
+        <item name="android:layout_marginTop">15dp</item>
+    </style>
+
+    <style name="PokemonTextTitle">
+        <item name="android:textColor">@color/pokemon_red</item>
+        <item name="android:textSize">40sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="PokemonText">
+        <item name="android:textColor">@color/pokemon_black</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+
+</resources>

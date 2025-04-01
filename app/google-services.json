@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1004388758200",
+    "project_id": "practica12-b89df",
+    "storage_bucket": "practica12-b89df.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004388758200:android:160205e52c66b1a832ba4d",
+        "android_client_info": {
+          "package_name": "armenta.jose.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX31cN0x0WMVHyo0eKWNefNac_YgIdK8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

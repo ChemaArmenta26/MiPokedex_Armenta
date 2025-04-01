@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Practica12</string>
+    <string name="title_activity_main">Firebase Kotlin</string>
+    <string name="subtitle_activity_main">Upload FIle</string>
+    <string name="all">TODO</string>
+    <string name="upload">Subir imagen</string>
+    <string name="mi_pok_dex">Mi Pokédex</string>
+    <string name="n_mero_de_pok_mon">Número de Pokémon</string>
+    <string name="nombre_de_pok_mon">Nombre de Pokémon</string>
+    <string name="seleccionar_imagen">Seleccionar Imagen</string>
+    <string name="guardar_pok_mon">Guardar Pokémon</string>
+    <string name="registrar_pok_mon">Registrar Pokémon</string>
+    <string name="agregar_pok_mon">Agregar Pokémon</string>
+</resources>

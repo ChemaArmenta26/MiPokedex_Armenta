@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="pokemon_red">#FF0000</color> <!-- Rojo de Pokémon -->
+    <color name="pokemon_yellow">#FFDD00</color> <!-- Amarillo de Pokémon -->
+    <color name="pokemon_black">#000000</color> <!-- Negro de Pokémon -->
+    <color name="pokemon_white">#FFFFFF</color> <!-- Blanco de Pokémon -->
+    <color name="pokemon_blue">#005AA7</color> <!-- Azul de Pokémon -->
+    <color name="pokemon_gray">#F0F0F0</color> <!-- Gris claro para fondos -->
+
+</resources>
