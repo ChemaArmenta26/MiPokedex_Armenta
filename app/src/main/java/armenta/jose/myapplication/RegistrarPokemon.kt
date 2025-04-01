@@ -43,7 +43,7 @@ class RegistrarPokemon : AppCompatActivity() {
             insets
         }
 
-        initCloudinary(this)
+        initCloudinary()
 
         name = findViewById(R.id.etName)
         number = findViewById(R.id.etNumber)
@@ -92,9 +92,11 @@ class RegistrarPokemon : AppCompatActivity() {
             }
     }
 
-    fun initCloudinary(context: Context) {
+    fun initCloudinary() {
         try {
-            MediaManager.init(context)
+            val config: MutableMap<String, String> = HashMap<String, String>()
+            config["cloud_name"] = CLOUD_NAME
+            MediaManager.init(this, config)
         } catch (e: IllegalStateException) {
             Log.w("Cloudinary", "MediaManager ya estaba inicializado")
         }
